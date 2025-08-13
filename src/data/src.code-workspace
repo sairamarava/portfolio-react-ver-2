@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "src",
+		"path": "../../../services/react-portfolio-app/src"
+	},
+	{
+		"name": "services-sample",
+		"path": "../.."
+	},
+	{
+		"name": "public",
+		"path": "../../../services/react-portfolio-app/public"
+	}
+],
+  "settings": {
+    "git.ignoreLimitWarning": true
+  }
+}
